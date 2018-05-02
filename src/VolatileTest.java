@@ -3,6 +3,8 @@ import java.util.HashSet;
 import java.util.Vector;
 import java.util.concurrent.atomic.AtomicInteger;
 
+//test git
+
 /**
  * volatile变量自增运算测试
  * 
